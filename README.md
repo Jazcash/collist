@@ -3,7 +3,7 @@ A simple way to arrange a list of elements in a column-like fashion without usin
 
 [Demo](http://jazcash.github.io/collist/)
 
-<a href="https://raw.githubusercontent.com/Jazcash/collist/master/collist.css" target="_blank">Download</a>
+[Download](https://raw.githubusercontent.com/Jazcash/collist/master/collist.css)
 
 ## Features
 - Easily specify the number of items per row for phone, tablet and desktop widths
