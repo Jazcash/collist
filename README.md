@@ -2,7 +2,8 @@
 A simple way to arrange a list of elements in a column-like fashion without using cols
 
 [Demo](http://jazcash.github.io/collist/)
-[Download](https://raw.githubusercontent.com/Jazcash/collist/master/collist.css)
+
+[Download](https://raw.githubusercontent.com/Jazcash/collist/master/collist.css){:target="_blank"}
 
 ## Features
 - Easily specify the number of items per row for phone, tablet and desktop widths
